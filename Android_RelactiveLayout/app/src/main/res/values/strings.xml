@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android_RelactiveLayout</string>
+    <string name="login_id">Login ID</string>
+    <string name="Password">Password</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+</resources>
