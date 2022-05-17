@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "817234782239",
+    "project_id": "my-pr-d6843",
+    "storage_bucket": "my-pr-d6843.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817234782239:android:826e68c18c392f3826cd2a",
+        "android_client_info": {
+          "package_name": "com.inhatc.android_firebase1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817234782239-k3kk7rojr50ocrec0119pulu6mannd9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOh4OmF685FK-DLR35E8rWXyfUFdCkb1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817234782239-k3kk7rojr50ocrec0119pulu6mannd9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
